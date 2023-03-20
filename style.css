@@ -9,8 +9,9 @@
 .example1>div{
     height: 100px;
     background: bule;
+}    
     
-    .example2{
+ .example2{
     width: 50%;
     height: 100px;
     padding: 20px;
@@ -19,8 +20,9 @@
 .example2>div{
     height: 100px;
     background: violet;
+}    
 
-.example3{
+  .example3{
     width: 50%;
     height: 100px;
     padding: 20px;
