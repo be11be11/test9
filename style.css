@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.example3{
+    width: 50%;
+    height: 100px;
+    /*コレを消すbox-sizing: border-box;*/
+    padding: 20px;
+    background: lime;
+}
+.example3>div{
+    height: 100px;
+    background: pink;
+}
